@@ -1,0 +1,9 @@
+
+$color-primario: #99ddad;
+$color-secundario: #990077;
+$color-secundario-dark:lighten($color-secundario, 50%);
+$color-texto: #333;
+$fuente: arial,Helvetica,Sans-serif;
+$fuente-titulos: Verdana, Tahoma, sans-serif;
+
+body{ font-family: $fuente;}
